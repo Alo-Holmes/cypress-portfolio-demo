@@ -1,6 +1,9 @@
 # Cypress Portfolio Demo
 
 ![Cypress Tests](https://github.com/Alo-Holmes/cypress-portfolio-demo/actions/workflows/cypress.yml/badge.svg)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![license](https://img.shields.io/badge/license-MIT-green.svg)
+![Cypress](https://img.shields.io/badge/tested%20with-Cypress-6e6e6e.svg?logo=cypress)
 
 
 This repository contains UI and API test suites built with Cypress, designed to demonstrate my skills in automation testing.
